@@ -10,7 +10,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dantas58&show_icons=true&locale=en&layout=cdark" alt="dantas58" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dantas58&show_icons=true&locale=en" alt="dantas58" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dantas58&show_icons=true&locale=en" alt="dantas58" /></p> -->
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dantas58&" alt="dantas58" /></p>
