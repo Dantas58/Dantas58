@@ -1,6 +1,5 @@
 ### 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dantas58&theme=dark&border_radius=25)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dantas58&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
